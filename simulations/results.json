@@ -1,0 +1,19 @@
+{
+  "dataset": "First 50,000 Riemann Zeta Zeros (Odlyzko)",
+  "metrics": {
+    "mean_spacing_ratio_zeta": 0.6118816426067957,
+    "std_spacing_ratio_zeta": 0.22518377918110535,
+    "mean_spacing_ratio_gue": 0.6007943712696632,
+    "theoretical_gue_ratio": 0.5996,
+    "theoretical_poisson_ratio": 0.3863,
+    "chi2_to_gue_wigner": 0.1397224210711675,
+    "chi2_to_poisson": 14.689511429644098,
+    "critical_alpha_c": 0.05
+  },
+  "figures": [
+    "01_spacing_distribution_comparison.png",
+    "02_montgomery_dyson_pair_correlation.png",
+    "03_alpha_sweep_phase_transition.png",
+    "04_spectral_form_factor_primes.png"
+  ]
+}
